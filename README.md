@@ -55,4 +55,4 @@
 [Кондуит ИДМ-22](https://docs.google.com/spreadsheets/d/1ypxgDUpNsaAK5PH90dTfGKdtDnWaeEDWfupEbDokN6A/edit?usp=sharing)
 
 ## ✅ Landing Page: 
-[Ссылка на лендинг с самой игрой, пока что бета-версия!](https://github.com/Allyxan/IT_Project)
+[Ссылка](https://allyxan.github.io/tanki-otchet/)
