@@ -1,5 +1,8 @@
 # Описание веб-приложения "Tanks of Misery"
 
+## ✅ Landing Page: 
+[Ссылка](https://allyxan.github.io/tanki-otchet/)
+
 Данное ПО разработано в рамках лабораторных работ по дисциплине "Интернет-технологии".
 
 ## ✅ Описание проекта:
@@ -53,6 +56,3 @@
 
 Распределение ролей также показано в Google-таблице:
 [Кондуит ИДМ-22](https://docs.google.com/spreadsheets/d/1ypxgDUpNsaAK5PH90dTfGKdtDnWaeEDWfupEbDokN6A/edit?usp=sharing)
-
-## ✅ Landing Page: 
-[Ссылка](https://allyxan.github.io/tanki-otchet/)
